@@ -2,21 +2,9 @@
 it contain a basic banking system which uses just PHP and my sql
 
 # Test url
-https://hostelbank.azurewebsites.net/
+due to hosting issues and maintenance the test url is now unavailable 
 
-# Test id and password
-For bank employee: -
-       id: - admin@hostelbank.com
-       password: - passadmin
-       
-       
-#
-For customer: - 
-      id: - archit@gmail.com
-      password: - pass
       
-#
-Its an humble request please don't change the password. 
 
 ## Features
 
